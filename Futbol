@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Futbol</title>
+</head>
+<body>
+	<style type="text/css">
+		img{
+			width: 50px; height: 50px;
+		}
+		h1{
+			text-align: center;
+		}
+		table{
+			border: 1px solid black; border-spacing: 5px;
+			text-align: center;
+		}
+		tr{
+			border: 1px solid black
+		}
+		th{
+			border: 1px solid black
+		}
+		td{
+			border: 1px solid black
+		}
+	</style>
+	<h1>Clasificación Liga 1ª división 20/21</h1>
+	<table>
+		<tr style="background-color: red; color: white">
+			<th>Escut</th>
+			<th>Club</th>
+			<th>Puntos</th>
+			<th>Victorias</th>
+			<th>Empates</th>
+			<th>Derrotas</th>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://www.getafecf.com/">
+				<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fde%2Fthumb%2Fd%2Fde%2FGetafe_CF.svg%2F1200px-Getafe_CF.svg.png&f=1&nofb=1">
+				</a>
+			</td>
+			<td>Getafe</td>
+			<td>7</td>
+			<td>3</td>
+			<td>1</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://en.valenciacf.com/portadas/splash">
+				<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4Qj-ofIResc%2Fmaxresdefault.jpg&f=1&nofb=1">
+				</a>
+			</td>
+			<td>Valencia</td>
+			<td>14</td>
+			<td>2</td>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://www.realmadrid.com/">
+				<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fworldsportlogos.com%2Fwp-content%2Fuploads%2F2018%2F02%2FReal-Madrid-logo-1997-2001.jpg&f=1&nofb=1">
+				</a>
+			</td>
+			<td>Real Madrid</td>
+			<td>3</td>
+			<td>2</td>
+			<td>1</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://www.villarrealcf.es/">
+				<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gyvQLVeV43d_TEpehot9BwHaHa%26pid%3DApi&f=1">
+				</a>
+			</td>
+			<td>Villareal</td>
+			<td>4</td>
+			<td>4</td>
+			<td>2</td>
+			<td>1</td>
+		</tr>
+</body>
+</html>
